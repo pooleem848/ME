@@ -12,7 +12,7 @@
 
 
 <button type="button">
-  <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/cb9176ce-c04c-4ae0-9a57-f8266d9fc13c alt="대체 텍스트" onclick="<audio src="오디오 파일 경로"></audio>"" />
+  <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/cb9176ce-c04c-4ae0-9a57-f8266d9fc13c alt="대체 텍스트" onclick="<audio src="https://github.com/user-attachments/files/22621120/2025-09-30.22-47-28.mp3"></audio>"" />
 </button>
 
 
