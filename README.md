@@ -14,11 +14,11 @@
 
 
 
-
+https://github.com/user-attachments/assets/69b842f3-e2ca-4267-a1fc-f0f10a6f6922
 ### 오버워치 재밌어요 츄라이 츄라이
 <img style ="width:500px&height:500px;" src = "https://pixelz.cc/wp-content/uploads/2018/07/overwatch-logo-uhd-4k-wallpaper.jpg">
 
-<img src="https://github.com/user-attachments/assets/d7249a4c-fc06-4609-968b-5b255bb90615">
+<img src="https://github.com/user-attachments/assets/69b842f3-e2ca-4267-a1fc-f0f10a6f6922">
 
 ### 림버스컴퍼니 재밌어요 츄라이 츄라이
 <img style ="width:500px&height:500px;" src = "https://i.pinimg.com/736x/9e/bb/cd/9ebbcd9b3718d3e552a72a368cb1b1bc.jpg">
