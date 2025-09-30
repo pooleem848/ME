@@ -14,7 +14,7 @@
 
 
 
-https://github.com/user-attachments/assets/69b842f3-e2ca-4267-a1fc-f0f10a6f6922
+
 ### 오버워치 재밌어요 츄라이 츄라이
 <img style ="width:500px&height:500px;" src = "https://pixelz.cc/wp-content/uploads/2018/07/overwatch-logo-uhd-4k-wallpaper.jpg">
 
