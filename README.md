@@ -11,9 +11,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration=4000&pause=3&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=MINHO)](https://git.io/typing-svg)
 
 
-<button type="button">
-  <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/cb9176ce-c04c-4ae0-9a57-f8266d9fc13c" alt="대체 텍스트" onclick="<audio src="https://github.com/user-attachments/files/22621120/2025-09-30.22-47-28.mp3"></audio>"" />
+<button type="button" onclick="playSound()">
+  <img 
+      width="300" 
+      height="300" 
+      src="https://github.com/user-attachments/assets/cb9176ce-c04c-4ae0-9a57-f8266d9fc13c" 
+      alt="대체 텍스트"
+  />
 </button>
+
+<audio id="myAudio" src="https://github.com/user-attachments/files/22621120/2025-09-30.22-47-28.mp3"></audio>
+
+<script>
+function playSound() {
+    var audio = document.getElementById('myAudio');
+    audio.play();
+}
+</script>
+
 
 
 
